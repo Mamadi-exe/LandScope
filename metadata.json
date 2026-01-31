@@ -1,0 +1,8 @@
+{
+  "name": "Lifelines26 - Gaza GIS Agricultural Alert System",
+  "description": "An advanced GIS and AI-powered platform designed to protect Gaza's agriculture. It models toxic plume paths using terrain data, delivers compact alerts via simulated mesh networks and SMS command protocols, and provides real-time Gemini AI insights for soil remediation and crop health.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
